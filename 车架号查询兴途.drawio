@@ -24,8 +24,8 @@
         <mxCell id="jzSwPiA5SmMhQmbik8Ob-4" value="轨迹服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="335" y="345" width="695" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jzSwPiA5SmMhQmbik8Ob-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="655" width="697" height="100" as="geometry" />
+        <mxCell id="jzSwPiA5SmMhQmbik8Ob-24" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="633.5" y="356.5" width="100" height="697" as="geometry" />
         </mxCell>
         <mxCell id="jzSwPiA5SmMhQmbik8Ob-7" value="兴途" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="675" width="120" height="60" as="geometry" />
