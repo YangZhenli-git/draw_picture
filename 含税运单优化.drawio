@@ -116,6 +116,9 @@
         <mxCell id="HxwUGHrHZ89-YTZq8f_4-76" value="延迟生效任务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1801" y="43" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HxwUGHrHZ89-YTZq8f_4-80" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1391" y="376" width="40" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
