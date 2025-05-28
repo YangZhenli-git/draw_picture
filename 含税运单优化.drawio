@@ -57,9 +57,6 @@
         <mxCell id="HxwUGHrHZ89-YTZq8f_4-33" value="添加服务费修改记录" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.45;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1401" y="273" width="301" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HxwUGHrHZ89-YTZq8f_4-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="985" y="521" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="HxwUGHrHZ89-YTZq8f_4-63" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="1717" y="109" width="300" height="583" as="geometry" />
         </mxCell>
