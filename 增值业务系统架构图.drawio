@@ -623,6 +623,21 @@
             <mxPoint x="4025" y="1603" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qdJDStV4PCUeVTxTuj5Y-83" value="账户设置" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="2529" y="850" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qdJDStV4PCUeVTxTuj5Y-84" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2285" y="586" as="sourcePoint" />
+            <mxPoint x="2506" y="855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdJDStV4PCUeVTxTuj5Y-85" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="3111.75" y="598" as="sourcePoint" />
+            <mxPoint x="2681" y="863" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
