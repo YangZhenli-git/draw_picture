@@ -134,7 +134,7 @@
         <mxCell id="j-8siDMb3IPo47aAKp7Q-57" value="spring cloud" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="1422" y="569" width="122" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="j-8siDMb3IPo47aAKp7Q-58" value="mybatis-plus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+        <mxCell id="j-8siDMb3IPo47aAKp7Q-58" value="mybatis-Flex" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="1612" y="576" width="122" height="38" as="geometry" />
         </mxCell>
         <mxCell id="j-8siDMb3IPo47aAKp7Q-59" value="sa-token" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
@@ -234,7 +234,7 @@
             <mxPoint x="2693" y="734" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-8siDMb3IPo47aAKp7Q-91" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="j-8siDMb3IPo47aAKp7Q-91" value="用户/运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="554" y="1268" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j-8siDMb3IPo47aAKp7Q-92" value="增值业务系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -267,10 +267,10 @@
             <mxPoint x="568" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-8siDMb3IPo47aAKp7Q-98" value="用户注册" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="j-8siDMb3IPo47aAKp7Q-98" value="运营添加企业" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="556.5" y="1395" width="25" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="j-8siDMb3IPo47aAKp7Q-100" value="用户保存" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="j-8siDMb3IPo47aAKp7Q-100" value="企业保存" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1094.5" y="1384" width="25" height="103" as="geometry" />
         </mxCell>
         <mxCell id="j-8siDMb3IPo47aAKp7Q-101" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
